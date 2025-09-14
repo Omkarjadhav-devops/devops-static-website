@@ -19,11 +19,11 @@ Static Website hosted on AWS S3 using GitHub Actions CI/CD.
 ## Features
 - Fast automated deployment (CI/CD).
 - Easy updates with every code push.
-- Static website visible at: [S3 Endpoint URL](http://your-bucket-name.s3-website.ap-south-1.amazonaws.com)
+- Static website visible at: [S3 Endpoint URL](http://omkar-staticwebsite-bucket.s3-website.ap-south-1.amazonaws.com)
 
 ## Screenshots
 - ![Workflow Success](IMAGE_URL)
 - ![Live Website](IMAGE_URL)
 
 ## Contact
-Any queries: jomkar1311@gmail.com / 7385193166
+Any queries: [jomkar1311@gmail.com] / 7385193166
